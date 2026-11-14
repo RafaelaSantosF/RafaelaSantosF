@@ -22,20 +22,22 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou a **Rafaela Santos**, uma entusiasta do desenvolvimento **Front-End** e do design UI/UX. Atualmente, sou estudante de **Ciência da Computação**, unindo a base académica com a prática na criação de interfaces modernas, responsivas e centradas na experiência do utilizador.
+Olá! Sou a **Rafaela Santos**, entusiasta do desenvolvimento **Front-End** e de UI/UX. Atualmente, curso **Ciência da Computação**, unindo a sólida base académica com vivências práticas em equipas multidisciplinares, desenvolvimento web e prototipagem.
 
 ---
 
 ## 💼 Experiência & Projetos
 
 *   **Residência Tecnológica (3 Meses):** 
-    *   Atuação prática em desenvolvimento de software e projetos colaborativos de impacto, incluindo o desenvolvimento de um sistema de banco de talentos (RH).
-    *   Foco em metodologias ágeis, trabalho em equipa, versionamento de código com Git/GitHub e entrega contínua.
+    *   Atuação central como **responsável pelo Front-End** e apresentações em projetos de equipa, integrando interfaces modernas com o Back-End em Django (Python).
+    *   Foco em entregas de valor, reuniões de alinhamento e metodologias ágeis.
+*   **Capacitação Prática (6 Meses - Foco em Front-End & React):** 
+    *   Desenvolvimento de aplicações do zero, atuando diretamente em **pesquisa, design de protótipos** e nas noções de conexão entre o Front-End (React) e o Back-End.
+    *   Participação ativa em reuniões de *reviews* frequentes e divisão estratégica de tarefas em equipa.
 *   **🌟 Projeto Arraial do Pavulagem:** 
     *   Aplicação web desenvolvida para valorizar a cultura e o património tradicional do Pará.
     *   *Tecnologias:* HTML5, CSS3, JavaScript, Git/GitHub.
-*   **🎨 Landing Page Éguaria:** 
-    *   Projeto focado na gastronomia paraense, combinando um design autêntico estruturado no **Figma** com uma implementação responsiva em **Front-End**.
+  
 
 ---
 
@@ -49,13 +51,13 @@ Olá! Sou a **Rafaela Santos**, uma entusiasta do desenvolvimento **Front-End** 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
 </div>
 
 ---
 
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:61DAFB&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:1e1e2e&height=100&section=footer" width="100%"/>
 </div>
