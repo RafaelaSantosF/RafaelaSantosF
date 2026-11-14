@@ -17,6 +17,11 @@
 
 ---
 
+## 🚀 Sobre Mim
+
+Olá! Sou a **Rafaela Santos**, entusiasta do desenvolvimento **Front-End** e de UI/UX. Atualmente, curso **Ciência da Computação**, unindo a sólida base académica com vivências práticas em equipas multidisciplinares, desenvolvimento web e prototipagem.
+
+
 ## 🛠️ Habilidades Técnicas
 
 <div align="center">
@@ -32,9 +37,6 @@
 
 ---
 
-## 🚀 Sobre Mim
-
-Olá! Sou a **Rafaela Santos**, entusiasta do desenvolvimento **Front-End** e de UI/UX. Atualmente, curso **Ciência da Computação**, unindo a sólida base académica com vivências práticas em equipas multidisciplinares, desenvolvimento web e prototipagem.
 
 ---
 
