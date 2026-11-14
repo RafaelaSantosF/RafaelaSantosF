@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-![Estatísticas do GitHub de Rafaela](https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelaSantosF&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ## Tecnologias que eu uso no meu dia
 
