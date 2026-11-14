@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
+
+  
+## 🚀 Sobre Mim
+
+Olá! Sou a **Rafaela Santos**, entusiasta do desenvolvimento **Front-End** e de UI/UX. Atualmente, curso **Ciência da Computação**, unindo a sólida base académica com vivências práticas em equipas multidisciplinares, desenvolvimento web e prototipagem.
+
+
  
 </div>
 
@@ -49,10 +56,6 @@
     *   Projeto focado na gastronomia paraense, estruturado no **Figma** com design autêntico e implementado com foco total em responsividade e experiência do utilizador.
 
 
-
-## 🚀 Sobre Mim
-
-Olá! Sou a **Rafaela Santos**, entusiasta do desenvolvimento **Front-End** e de UI/UX. Atualmente, curso **Ciência da Computação**, unindo a sólida base académica com vivências práticas em equipas multidisciplinares, desenvolvimento web e prototipagem.
 
 ---
 
