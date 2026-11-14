@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/rafaela-santos-freitas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rafaelaasantos2021@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  
   <a href="https://www.instagram.com/rafa_code_front_end" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -29,7 +27,12 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
+</div>
+
+---
 
 ## 🚀 Sobre Mim
 
@@ -48,17 +51,12 @@ Olá! Sou a **Rafaela Santos**, entusiasta do desenvolvimento **Front-End** e de
 *   **🌟 Projeto Arraial do Pavulagem:** 
     *   Aplicação web desenvolvida para valorizar a cultura e o património tradicional do Pará.
     *   *Tecnologias:* HTML5, CSS3, JavaScript, Git/GitHub.
-  
+*   **🎨 Landing Page Éguaria:** 
+    *   Projeto focado na gastronomia paraense, estruturado no **Figma** com design autêntico e implementado com foco total em responsividade e experiência do utilizador.
 
 ---
 
-
- 
-</div>
-
----
-
+## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:1e1e2e&height=100&section=footer" width="100%"/>
-</div>
+  <img height="170em" src="
