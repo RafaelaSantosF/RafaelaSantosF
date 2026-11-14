@@ -44,14 +44,7 @@ Tenho experiência e estudo contínuo nas seguintes tecnologias:
 
 ---
 
-## 📊 Estatísticas no GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelaSantosF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RafaelaSantosF&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:61DAFB&height=100&section=footer" width="100%"/>
