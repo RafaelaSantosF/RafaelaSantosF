@@ -22,13 +22,24 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou a **Rafaela Santos**, uma entusiasta do desenvolvimento **Front-End** e do design UI/UX. Atualmente, sou estudante de **Ciência da Computação**, o que me proporciona uma base sólida para criar interfaces bonitas, funcionais e com excelente experiência para o utilizador. Acredito que a tecnologia deve ser intuitiva e visualmente impactante.
+Olá! Sou a **Rafaela Santos**, uma entusiasta do desenvolvimento **Front-End** e do design UI/UX. Atualmente, sou estudante de **Ciência da Computação**, unindo a base académica com a prática na criação de interfaces modernas, responsivas e centradas na experiência do utilizador.
+
+---
+
+## 💼 Experiência & Projetos
+
+*   **Residência Tecnológica (3 Meses):** 
+    *   Atuação prática em desenvolvimento de software e projetos colaborativos de impacto, incluindo o desenvolvimento de um sistema de banco de talentos (RH).
+    *   Foco em metodologias ágeis, trabalho em equipa, versionamento de código com Git/GitHub e entrega contínua.
+*   **🌟 Projeto Arraial do Pavulagem:** 
+    *   Aplicação web desenvolvida para valorizar a cultura e o património tradicional do Pará.
+    *   *Tecnologias:* HTML5, CSS3, JavaScript, Git/GitHub.
+*   **🎨 Landing Page Éguaria:** 
+    *   Projeto focado na gastronomia paraense, combinando um design autêntico estruturado no **Figma** com uma implementação responsiva em **Front-End**.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-
-Tenho experiência e estudo contínuo nas seguintes tecnologias:
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
